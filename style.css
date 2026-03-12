@@ -106,6 +106,9 @@ h1{
     margin: 1rem 0;
     max-width: 500px;
 }       
+.download-button{
+    border-radius: 1.6rem;
+}
 .home-img img{
     width: 25vw;
     border-radius: 190px;
