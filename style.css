@@ -215,6 +215,7 @@ h1{
     font-size: 1.6rem;
     color: var(--text-color);
     margin: 2rem 0 3rem;
+    text-align: center;
 }
 
 .portfolio{
