@@ -136,6 +136,7 @@ h1{
     justify-content: center;
     width: 4rem;
     height: 4rem;
+    text-decoration: none;
     background: transparent;
     border: .2rem solid var(--main-color);
     color: var(--main-color);
